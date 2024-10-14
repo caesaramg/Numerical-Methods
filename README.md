@@ -6,9 +6,8 @@ This repository contains the solution to a boundary value problem. The task invo
 Problem Overview
 The boundary value problem tackled in this coursework is:
 
-\begin{equation}
-- y'' = f \quad \text{on} \, [0,1] \quad \text{subject to} \, y(0) = y_0, \, y(1) = y_1
-\end{equation}
+$- y'' = f \quad \text{on} \, [0,1] \quad \text{subject to} \, y(0) = y_0, \, y(1) = y_1$
+
 
  
 This equation models physical systems like the displacement of a wire subjected to a load or the temperature distribution in a wire heated with an internal source.
